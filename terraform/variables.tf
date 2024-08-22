@@ -5,7 +5,7 @@ variable "region" {
 }
 
 variable "clusterName" {
-  description = "Name of thee EKS cluster"
+  description = "Name of theee  EKS cluster"
   type        = string
   default     = "vprofile-eks"
 }
